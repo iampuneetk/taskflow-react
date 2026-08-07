@@ -29,16 +29,16 @@ TaskFlow was built as a learning project, but structured like a small real appli
 
 ## Live Demo
 
-Add the deployed URL here:
+The deployed URL here:
 
 ```text
-https://your-taskflow-project.vercel.app
+https://taskflow-react-ebon.vercel.app/
 ```
 
 Repository:
 
 ```text
-https://github.com/your-username/taskflow-react
+https://github.com/iampuneetk/taskflow-react/
 ```
 
 ---
@@ -1232,7 +1232,7 @@ This path moves from basic React to full-stack integration.
 
 Frontend Engineer focused on React, JavaScript, reusable UI systems, frontend architecture, performance, accessibility, and maintainable product development.
 
-Add your LinkedIn, GitHub, email, and portfolio links here.
+Connect :  https://www.linkedin.com/in/puneet-k/
 
 ---
 
